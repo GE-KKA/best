@@ -1,0 +1,1 @@
+sudo pacman -R 	accerciser  endeavour five-or-more four-in-a-row gnome-2048 gnome-chess gnome-devel-docs gnome-games gnome-klotski gnome-mahjongg gnome-mines gnome-nibbles gnome-recipes gnome-robots gnome-sudoku gnome-taquin gnome-tetravex hitori iagno lightsoff quadrapassel swell-foop tali
